@@ -1,0 +1,30 @@
+{
+  "greeting": "Pouchi 👼🏻 👋🏻 helllo",
+  "name": "Anushree my janeman ji",
+  "greetingText": "I'm so lucky to have met the most beautiful you in the most beautiful years.",
+  "wishText": "May your beauty remain, and may flowers always grace your hair. Wishing you joy every year.",
+  "imagePath": "img/lydia2.png",
+  "text1": "It's your birthday today!!! :D",
+  "textInChatBox": "Wishing you a very, very happy birthday!!! Lots of 💕 and lots of joy my cutie little angel 😇…",
+  "sendButtonLabel": "Send",
+  "text2": "I wanted to give you a surprise",
+  "text3": "I thought about it for a  time",
+  "text4": "I realized, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are special to me",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "I hope you like this little surprise!",
+  "replayText": "If you liked it, you can watch it again! Or…",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
